@@ -1,0 +1,12 @@
+a       b       Output
+1       1       Convergent - Lattice pattern
+1       0       Divergent
+3       1       Convergent – Seaweed pattern
+4       2       Convergent – Staircase pattern
+0       -30     Divergent
+
+isImage     isTitle     Result
+1           1           Saved pdf with title
+1           0           Saved pdf without title
+0           1           No saved pdf
+0           0           No saved pdf
